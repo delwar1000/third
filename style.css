@@ -1,0 +1,179 @@
+/* header area*/
+.header{
+    text-align:right;
+    padding-right:180px;
+    background-image:url('./images/banner/ban.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    margin-top:-50px;
+    padding-top:150px;
+    padding-bottom:200px;
+}
+
+.main-head{
+    font-weight:bold;
+    font-size:60px;
+}
+.main-para{
+    color:#A4A4A4;
+
+}
+.main-btn{
+    color:white;
+    background:#FF4000;
+    border:0;
+    padding:20px 25px;
+    border-radius:5px;
+    font-weight:bold;
+    margin-top:10px;
+}
+/*previous*/
+.previous{
+    display:flex;
+    max-width:1140px;
+    margin:0 auto;
+    gap:70px;
+    margin-top:100px;
+    
+}
+.year{
+    margin-top:250px;
+}
+.main-second{
+    font-weight:bold;
+    font-size:40px;
+
+}
+.second-para{
+    line-height:25px;
+    color:#848484;
+}
+.icon{
+    line-height:30px;
+    color:#848484;
+}
+
+/* my plan */
+.plan-head{
+    text-align:center;
+    font-size:30px;
+}
+.plan{
+    margin-left:250px;
+    margin-top:120px;
+}
+.main-plan{
+    display:flex;
+    gap:60px;
+    margin-top:30px;
+}
+.plan{
+    padding:0 180px;
+}
+
+.web{
+    text-align:center;
+}
+.first{
+    font-size:20px;
+    font-weight:bold;
+}
+
+.jva{
+    text-align:center;
+}
+.second{
+    font-size:20px;
+    font-weight:bold;
+}
+.smo{
+    text-align:center;
+}
+.third{
+    font-size:20px;
+    font-weight:bold;
+}
+.ecom{
+    text-align:center;
+}
+.fourth{
+    font-size:20px;
+    font-weight:bold;
+}
+/*call now*/
+.call-now{
+    max-width:1140px;
+    margin:0 auto;
+    background-image:url('./images/watch.png');
+    background-repeat:no-repeat;
+    padding-bottom:20px;
+    margin-top:120px;
+}
+.mindset{
+    font-size:40px;
+    padding-top:30px;
+    padding-left:30px;
+}
+.call{
+    border:0;
+    color:orange;
+    padding:20px 30px;
+    margin-left:30px;
+    border-radius:5px;
+}
+/*future*/
+.future{
+    padding:0 180px;
+    background-color:black;
+    margin-top:100px;
+}
+.main-future{
+    display:flex;
+    gap:280px;
+}
+input{
+    display:block;
+    height:40px;
+    width:230px;
+    padding-left:10px;
+    border-radius:5px;
+    
+}
+.subs{
+    margin-top:20px;
+    color:orange;
+    padding:15px 15px;
+    border:0;
+    font-weight:bold;
+}
+.last-head{
+    color:white;
+    font-size:40px;
+}
+.last-para{
+    color:white;
+}
+.email{
+    color:white;
+}
+.phone{
+    color:white;
+}
+.last-sub{
+    color:white;
+    font-size:25px;
+}
+/*form*/
+
+.form{
+    
+    margin-left:550px;
+}
+.submit{
+    display:block;
+    margin-top:20px;
+    padding: 20px 20px;
+    background:green;
+    border:0;
+}
